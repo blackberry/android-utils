@@ -1,0 +1,15 @@
+.deps/
+.libs/
+.dirstamp
+Makefile
+Makefile.in
+*.o
+*.la
+*.lo
+
+/aclocal.m4
+/autom4te.cache/
+/build-aux/
+/config.*
+/configure
+/libtool
